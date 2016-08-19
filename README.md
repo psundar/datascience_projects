@@ -1,1 +1,3 @@
 # Datascience Projects
+
+This directory essentially contains all the data science projects purely for learning, kaggle, self or through other sources that I have done or currently doing. A directory for kaggle projects coming soon....
